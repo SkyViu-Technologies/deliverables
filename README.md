@@ -1,3 +1,1 @@
-The Deliverables
-
-1. 
+The Deliverables for the project
