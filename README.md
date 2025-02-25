@@ -1,2 +1,2 @@
-# deliverables
-The deliverables required such as slides
+#The Deliverables
+1. 
